@@ -1,0 +1,29 @@
+# This metadata batch upload is created by a GeneWeaver.org export geneset batch script.
+# 2020-07-24 21:25:37.126075
+#
+# The format of this file is described online at:
+#    http://geneweaver.org/index.php?action=manage&cmd=batchgeneset
+# Which is the same page that it can be submitted to.
+#
+: CoV_A549_down
+= Down regulated genes in host transcriptional response to SARS-CoV-2 in Human adenocarcinomic alveolar basal epithelial (A549) cells
++ This gene set describes genes that are down-regulated by the host transcriptional response to SARS-CoV-2 infection in human adenocarcinomic alveolar basal epithelial (A549) cells. COVID-19 is the disease caused by SARS-CoV-2 virus. We define down-regulated as those genes that show a (log 2 fold change) of <= -1.5. These data are from the supplementary materials associated with a publication that, as of 5/5/2020, has not yet been peer-reviewed: https://www.biorxiv.org/content/10.1101/2020.03.24.004655v1
+A Public
+! P-Value < 0.5
+@ Homo sapiens
+% Gene Symbol
+~ GO:0006351
+~ GO:0005623
+~ RO:0002453
+~ UBERON:0000483
+
+LINC00516	0.61600000000000000000
+BMS1P17	0.61600000000000000000
+INO80B-WBP1	0.80000000000000000000
+DNAJC25-GNG10	0.54200000000000000000
+CBSL	0.35200000000000000000
+HNRNPUL2-BSCL2	0.67400000000000000000
+AC5	0.28200000000000000000
+FDFM	0.28200000000000000000
+ADCY5	0.28200000000000000000
+
